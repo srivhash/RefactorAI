@@ -23,5 +23,4 @@ Create these Secret variables in your repository
 The script provides a list of design smells detected in the codebase. A pull request is created with the refactored code.
 Output:
 List of detected design smells. Pull request link.
-Conclusion
 This tool automates the process of identifying and fixing design smells, streamlining the code review and enhancement process. It empowers developers to maintain clean and maintainable codebases.
